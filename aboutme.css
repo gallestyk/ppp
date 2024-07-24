@@ -1,0 +1,243 @@
+@media screen and (min-width: 1085px) and (max-width: 1728px) {
+    body { 
+        background-color: bisque;
+        background-image: url('https://i.pinimg.com/736x/2f/f1/e3/2ff1e311ce5843d778e32d3c749f0e07.jpg'); /* Ganti 'gambar-background.jpg' dengan path atau URL gambar Anda */
+        background-size: cover; /* Untuk menyesuaikan gambar dengan ukuran background */
+        background-position: center; /* Menempatkan gambar di tengah background */
+        background-repeat: no-repeat; /* Menghindari pengulangan gambar background */
+        padding-left: 90px;
+        padding-bottom: 200px;
+    }
+
+    .container {
+        width: 500px;
+        height: 400px;
+        font-size: 12px;
+        margin: auto 50px;
+        padding: 100px;
+        padding-left: 15px;
+        padding-right: 130px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        color: black;
+        background-color: white;
+        background-image: url('https://i.pinimg.com/736x/0a/e9/e7/0ae9e76c810e25c843ec47083e7fc9b5.jpg');
+        background-size: cover;
+        box-shadow: 0 0 50px black;
+        border-radius: 50px;
+        border-top-left-radius: 0px;
+        border: 5px solid rgb(232, 225, 225);
+        text-align: justify;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    p2 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 50px;
+        color: white;
+        padding-left: 50px;
+        padding-top: 30px;
+    }
+}
+
+
+@media screen and (min-width: 884px) and (max-width: 1104px) {
+    body { 
+        background-color: bisque;
+        background-image: url('https://i.pinimg.com/736x/2f/f1/e3/2ff1e311ce5843d778e32d3c749f0e07.jpg'); /* Ganti 'gambar-background.jpg' dengan path atau URL gambar Anda */
+        background-size: cover; /* Untuk menyesuaikan gambar dengan ukuran background */
+        background-position: center; /* Menempatkan gambar di tengah background */
+        background-repeat: no-repeat; /* Menghindari pengulangan gambar background */
+        padding-left: 60px;
+        padding-bottom: 380px;
+    }
+
+    .container {
+        width: 500px;
+        height: 400px;
+        font-size: 12px;
+        margin: auto 50px;
+        padding: 100px;
+        padding-left: 15px;
+        padding-right: 130px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        color: black;
+        background-color: white;
+        background-image: url('https://i.pinimg.com/736x/0a/e9/e7/0ae9e76c810e25c843ec47083e7fc9b5.jpg');
+        background-size: cover;
+        box-shadow: 0 0 50px black;
+        border-radius: 50px;
+        border-top-left-radius: 0px;
+        border: 5px solid rgb(232, 225, 225);
+        text-align: justify;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    p2 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 50px;
+        color: white;
+        padding-left: 50px;
+        padding-top: 100px;
+    }
+}
+
+
+@media screen and (min-width: 800px) and (max-width: 1280px) {
+    body { 
+        background-color: bisque;
+        background-image: url('https://i.pinimg.com/736x/2f/f1/e3/2ff1e311ce5843d778e32d3c749f0e07.jpg'); /* Ganti 'gambar-background.jpg' dengan path atau URL gambar Anda */
+        background-size: cover; /* Untuk menyesuaikan gambar dengan ukuran background */
+        background-position: center; /* Menempatkan gambar di tengah background */
+        background-repeat: no-repeat; /* Menghindari pengulangan gambar background */
+        padding-left: 20px;
+        padding-top: 1px;
+        padding-bottom: 180px;
+    }
+
+    .container {
+        width: 500px;
+        height: 400px;
+        font-size: 12px;
+        margin: auto 50px;
+        padding: 100px;
+        padding-left: 15px;
+        padding-right: 130px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        color: black;
+        background-color: white;
+        background-image: url('https://i.pinimg.com/736x/0a/e9/e7/0ae9e76c810e25c843ec47083e7fc9b5.jpg');
+        background-size: cover;
+        box-shadow: 0 0 50px black;
+        border-radius: 50px;
+        border-top-left-radius: 0px;
+        border: 5px solid rgb(232, 225, 225);
+        text-align: justify;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    p2 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 50px;
+        color: white;
+        padding-left: 50px;
+        padding-top: 20px;
+    }
+}
+
+@media screen and (max-width: 412px){
+    body { 
+        background-color: bisque;
+        background-image: url('https://i.pinimg.com/736x/2f/f1/e3/2ff1e311ce5843d778e32d3c749f0e07.jpg'); /* Ganti 'gambar-background.jpg' dengan path atau URL gambar Anda */
+        background-size: cover; /* Untuk menyesuaikan gambar dengan ukuran background */
+        background-position: center; /* Menempatkan gambar di tengah background */
+        background-repeat: no-repeat; /* Menghindari pengulangan gambar background */
+        padding-top: 120px;
+        padding-bottom: 280px;
+    }
+
+    .container {
+        width: 300px;
+        height: 250px;
+        font-size: 12px;
+        margin: auto 8px;
+        padding: 100px;
+        padding-left: 10px;
+        padding-right: 5px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        color: black;
+        background-color: white;
+        background-image: url('https://i.pinimg.com/736x/0a/e9/e7/0ae9e76c810e25c843ec47083e7fc9b5.jpg');
+        background-size: cover;
+        box-shadow: 0 0 50px black;
+        border-radius: 50px;
+        border-top-left-radius: 0px;
+        border: 5px solid rgb(232, 225, 225);
+        text-align: justify;
+    }
+
+    p {
+        font-size: 10px;
+    }
+
+    p2 {
+        font-size: 10px;
+    }
+
+    h2 {
+        font-size: 20px;
+        color: white;
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1042px) {
+    body { 
+        background-color: bisque;
+        background-image: url('https://i.pinimg.com/736x/2f/f1/e3/2ff1e311ce5843d778e32d3c749f0e07.jpg'); /* Ganti 'gambar-background.jpg' dengan path atau URL gambar Anda */
+        background-size: cover; /* Untuk menyesuaikan gambar dengan ukuran background */
+        background-position: center; /* Menempatkan gambar di tengah background */
+        background-repeat: no-repeat; /* Menghindari pengulangan gambar background */
+        padding-left: 20px;
+        padding-top: 10px;
+        padding-bottom: 400px;
+    }
+
+    .container {
+        width: 500px;
+        height: 400px;
+        font-size: 12px;
+        margin: auto 20px;
+        padding: 100px;
+        padding-left: 15px;
+        padding-right: 130px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        color: black;
+        background-color: white;
+        background-image: url('https://i.pinimg.com/736x/0a/e9/e7/0ae9e76c810e25c843ec47083e7fc9b5.jpg');
+        background-size: cover;
+        box-shadow: 0 0 50px black;
+        border-radius: 50px;
+        border-top-left-radius: 0px;
+        border: 5px solid rgb(232, 225, 225);
+        text-align: justify;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    p2 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 50px;
+        color: white;
+        padding-left: 50px;
+        padding-top: 50px;
+    }
+}
